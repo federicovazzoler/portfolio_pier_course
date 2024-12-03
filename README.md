@@ -6,6 +6,4 @@ I have been involved in several different aspects of research within the [CMS Co
 
 # Portfolio
 
-Feel free to download my recent study on Efficient Classification of Solar Variability:
-
-[Download PDF](assets/OSMER_data_classification.pdf)
+Feel free to download my recent study on [Efficient Classification of Solar Variability](assets/OSMER_data_classification.pdf)
