@@ -1,4 +1,9 @@
-title: Federico's portfolio
+title: Federico's Portfolio
 logo: /assets/profile_picture_square.jpg
 theme: jekyll-theme-minimal
 description: Experimental particle physics researcher. I’m currently a research fellow at the DESY research centre. My main interests concern scientific research and finance.
+menu:
+  - title: Home
+    url: /
+  - title: Efficient Classification of Solar Variability
+    url: /assets/OSMER_data_classification.pdf
